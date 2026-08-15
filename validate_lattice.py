@@ -1,3 +1,4 @@
+#Run this file to create a Lattice
 import os
 import numpy as np
 import matplotlib.pyplot as plt
